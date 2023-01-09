@@ -1,6 +1,7 @@
 #ifndef BIN_H
 #define BIN_H
 
+#include <stdlib.h>
 #include <stdio.h>
 
 /**
@@ -28,7 +29,11 @@ typedef struct binary_tree_s avl_t;
 
 typedef struct binary_tree_s heap_t;
 
+
+binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value);
+
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
 void binary_tree_print(const binary_tree_t *tree);
+
 
 #endif
