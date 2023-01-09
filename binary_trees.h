@@ -1,6 +1,7 @@
 #ifndef BIN_H
 #define BIN_H
 
+#include <stdlib.h>
 #include <stdio.h>
 
 /**
@@ -30,5 +31,8 @@ typedef struct binary_tree_s avl_t;
 
 /max binary heap/
 typedef struct binary_tree_s heap_t;
+
+binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value);
+
 
 #endif
