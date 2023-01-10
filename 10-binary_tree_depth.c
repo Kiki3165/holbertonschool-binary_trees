@@ -17,5 +17,5 @@ if (tree->parent == NULL)
 {
 return (0);
 }
-return binary_tree_depth((tree->parent) + 1);
+return binary_tree_depth(tree->parent) + 1;
 }
