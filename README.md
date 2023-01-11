@@ -5,7 +5,6 @@ A binary tree is a tree data structure in which each node has at most two childr
 
 ## Functions and Files:
 
-***
 
 | **Files**  | **Description** |
 | ------------- |:-------------:|
@@ -35,7 +34,6 @@ A binary tree is a tree data structure in which each node has at most two childr
 
 ## Learning Objectives
 
-***
 
 ### General
 
@@ -65,7 +63,6 @@ A binary tree is a tree data structure in which each node has at most two childr
 
 ## More Info
 
-***
 
 ## Data structures
 
@@ -118,7 +115,6 @@ typedef struct binary_tree_s heap_t;
 
 ## Authors
 
-***
 
 [Kyllian Terrasson](https://github.com/Kiki3165)
 
