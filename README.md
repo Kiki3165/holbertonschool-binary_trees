@@ -1,5 +1,6 @@
 # holbertonschool-binary_trees
 
+<<<<<<< HEAD
 ***
 ![image](https://en.wikipedia.org/wiki/Binary_tree#/media/File:Binary_tree_v2.svg)
 ***
@@ -8,6 +9,9 @@ A binary tree is a tree data structure in which each node has at most two childr
 
 
 ## Functions and Files:
+=======
+## Folders and Files :open_file_folder:
+>>>>>>> 77113ff2dcf7da539509f0391e355cb1f16869b1
 
 | **Files**  | **Description** |
 | ------------- |:-------------:|
@@ -20,6 +24,7 @@ A binary tree is a tree data structure in which each node has at most two childr
 | [6-binary_tree_preorder.c](https://github.com/Kiki3165/holbertonschool-binary_trees/blob/main/6-binary_tree_preorder.c) | function that goes through a binary tree using pre-order traversal |
 | [7-binary_tree_inorder.c](https://github.com/Kiki3165/holbertonschool-binary_trees/blob/main/7-binary_tree_inorder.c) | function that goes through a binary tree using in-order traversal |
 | [8-binary_tree_postorder.c](https://github.com/Kiki3165/holbertonschool-binary_trees/blob/main/8-binary_tree_postorder.c) | function that goes through a binary tree using post-order traversal |
+<<<<<<< HEAD
 | [9-binary_tree_height.c](https://github.com/Kiki3165/holbertonschool-binary_trees/blob/main/9-binary_tree_height.c) | function that measures the height of a binary tree |
 | [10-binary_tree_depth.c](https://github.com/Kiki3165/holbertonschool-binary_trees/blob/main/10-binary_tree_depth.c) | function that measures the depth of a node in a binary tree |
 | [11-binary_tree_size.c](https://github.com/Kiki3165/holbertonschool-binary_trees/blob/main/11-binary_tree_size.c) | function that measures the size of a binary tree |
@@ -38,6 +43,26 @@ A binary tree is a tree data structure in which each node has at most two childr
 ## Learning Objectives
 ***
 ### General
+=======
+| [9-binary_tree_height.c](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/9-binary_tree_height.c) | function that measures the height of a binary tree |
+| [10-binary_tree_depth.c](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/10-binary_tree_depth.c) | function that measures the depth of a node in a binary tree |
+| [11-binary_tree_size.c](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/11-binary_tree_size.c) | function that measures the size of a binary tree |
+| [12-binary_tree_leaves.c](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/12-binary_tree_leaves.c) | function that counts the leaves in a binary tree |
+| [13-binary_tree_nodes.c](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/13-binary_tree_nodes.c) | function that counts the nodes with at least 1 child in a binary tree |
+| [14-binary_tree_balance.c](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/14-binary_tree_balance.c) | function that measures the balance factor of a binary tree |
+| [15-binary_tree_is_full.c](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/15-binary_tree_is_full.c) | function that checks if a binary tree is full |
+| [16-binary_tree_is_perfect.c](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/16-binary_tree_is_perfect.c) | function that checks if a binary tree is perfect |
+| [17-binary_tree_sibling.c](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/17-binary_tree_sibling.c) | function that finds the sibling of a node |
+| [18-binary_tree_uncle.c](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/18-binary_tree_uncle.c) | function that finds the uncle of a node |
+| [binary_tree_print.c](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/binary_tree_print.c) | print fuction |
+| [binary_trees.h](https://github.com/David-VargasV/holbertonschool-binary_trees/blob/main/binary_trees.h) | header file that includes the libraries and prototypes |
+
+***
+
+## Learning Objectives :ledger: :pencil2: :memo:
+***
+### General :wrench:
+>>>>>>> 77113ff2dcf7da539509f0391e355cb1f16869b1
 
 * What is a binary tree
 * What is the difference between a binary tree and a Binary Search Tree
@@ -46,7 +71,11 @@ A binary tree is a tree data structure in which each node has at most two childr
 * What are the different traversal methods to go through a binary tree
 * What is a complete, a full, a perfect, a balanced binary tree
 
+<<<<<<< HEAD
 ### Requirements
+=======
+### Requirements :wrench:
+>>>>>>> 77113ff2dcf7da539509f0391e355cb1f16869b1
 
 * Allowed editors: vi, vim, emacs
 * All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -62,7 +91,11 @@ A binary tree is a tree data structure in which each node has at most two childr
 * All your header files should be include guarded
 ***
 
+<<<<<<< HEAD
 ## More Info
+=======
+## More Info :books:
+>>>>>>> 77113ff2dcf7da539509f0391e355cb1f16869b1
 ***
 ## Data structures
 
@@ -103,6 +136,7 @@ typedef struct binary_tree_s heap_t;
 ```
 ***
 
+<<<<<<< HEAD
 ## HOW TO COMPILE
 
     gcc -Wall -Werror -Wextra -pedantic <files> -o <output_executable_name>
@@ -121,3 +155,7 @@ typedef struct binary_tree_s heap_t;
 [Asia Groupierre](https://github.com/AsiaGrpr)
 
 ***
+=======
+## Authors :raising_hand:
+***
+>>>>>>> 77113ff2dcf7da539509f0391e355cb1f16869b1
